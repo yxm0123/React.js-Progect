@@ -1,0 +1,30 @@
+{
+	"success": true,
+	"data": [
+        {
+            "id":1,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4482/daee8160945497802b201ce1ae1fa5395b85a51b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },
+        {
+            "id":2,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4448/d9a0fd8f0622d2323161b68d2123c7f28837d28f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },
+        {
+            "id":3,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4485/d0fb5320f8539c5c8b643fe88cbf512d1f4ced38.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },
+        {
+            "id":4,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4486/41d9173c44ce6eded75da5f82da659973ddaad41.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },
+        {
+            "id":5,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4448/d9a0fd8f0622d2323161b68d2123c7f28837d28f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },
+        {
+            "id":6,
+            "urlImgs":"//upload.jianshu.io/admin_banners/web_images/4448/d9a0fd8f0622d2323161b68d2123c7f28837d28f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        }
+       
+    ]
+}
